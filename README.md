@@ -1,1 +1,1 @@
-# Trabalho_CG
+Este repositório contém um código-fonte em C++ que implementa um simples jogo de corrida em 3D utilizando a biblioteca OpenGL e GLUT. O jogo apresenta uma pista onde o jogador controla um carro e compete contra carros adversários. O código inclui funcionalidades de controle de teclado, animações de movimento e visualização da cena, proporcionando uma experiência de jogo básica. É um ponto de partida ideal para a criação de um jogo de corrida mais complexo.
